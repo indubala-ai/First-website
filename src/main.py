@@ -7,3 +7,6 @@ print("Current working directory:", os.getcwd())
 =======
 print(os.getcwd)
 >>>>>>> feature-python
+
+there = "Hello, World!"
+print(there)
